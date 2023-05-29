@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @DrugsDealer
-- 👀 I’m interested in code, bots, games.
-- 🌱 I’m currently learning C, C#, Python and network security
-- 📫 How to reach me: discord: yair#8903 , gmail: Yair4You@gmail.com (i recommend in discord).
+- 👋 Hi, I’m @Yairbd2004.
+- 👀 I’m interested in code, bots, game development, networds.
+- 📫 How to reach me: discord: yair#8903 , gmail: Yair4You@gmail.com.
